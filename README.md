@@ -35,4 +35,4 @@ Then, open the page [http://localhost:3000](http://localhost:3000) in your web b
 
 
 **Weather APP ScreenShot**:
-<img src="https://raw.githubusercontent.com/YourUserAccount/YourProject/master/DirectoryPath/Example.png?raw=true" />
+<img src="http://starnewstamil.com/screenshot.jpg" />
